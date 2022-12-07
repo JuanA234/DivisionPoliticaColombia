@@ -1,0 +1,33 @@
+Colombia,colombia.jpg
+Amazonas,Amazonas.png
+Antioquia,Antioquia.png
+Arauca,Arauca.png
+Archipielago San Andres y Providencia,SanAndres.png
+Atlantico,Atlantico.png
+Bolivar,Bolivar.png
+Boyaca,Boyaca.png
+Caldas,Caldas.png
+Caqueta,Caqueta.png
+Casanare,Casanare.png
+Cauca,Cauca.png
+Cesar,Cesar.png
+Choco,Choco.png
+Cordoba,Cordoba.png
+Cundinamarca,Cundinamarca.png
+Guainia,Guainia.png
+Guaviare,Guaviare.png
+Huila,Huila.png
+La Guajira,Guajira.png
+Magdalena,Magdalena.png
+Meta,Meta.png
+Nariño,Narino.png
+Norte de Santander,NorteSantander.png
+Putumayo,Putumayo.png
+Quindio,Quindio.png
+Risaralda,Risaralda.png
+Santander,Santander.png
+Sucre,Sucre.png
+Tolima,Tolima.png
+Valle del Cauca,Valle.png
+Vaupes,Vaupes.png
+Vichada,Vichada.png
